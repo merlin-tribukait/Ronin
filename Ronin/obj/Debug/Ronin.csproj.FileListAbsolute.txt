@@ -1,0 +1,224 @@
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Ronin.exe.config
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\MainWindow.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\App.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\Ronin_MarkupCompile.cache
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\Ronin_MarkupCompile.lref
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Ronin.exe
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Ronin.pdb
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\GreyMagic.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\log4net.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\MahApps.Metro.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\System.Windows.Interactivity.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\log4net.xml
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\MahApps.Metro.pdb
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\MahApps.Metro.xml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\App.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\MainWindow.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\Ronin.g.resources
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\Ronin.Properties.Resources.resources
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\Ronin.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\Ronin.exe
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\Ronin.pdb
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\ConfigurationWindow.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\ConfigurationWindow.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\SurroundingUnits.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\SurroundingUnits.baml
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Product.dat
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\LexActivator.dll
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\Ronin_Content.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\LexActivator64.dll
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\LoginForm.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\LoginForm.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Resources\itemname-e.txt
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Resources\npcname-e.txt
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Resources\skillgrp.txt
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Resources\skillname-e.txt
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Resources\Weapongrp.txt
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\AdditionalNukeCondtions.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\AdditionalNukeCondtions.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\AdditionalSelfCondtions.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\AdditionalSelfCondtions.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\AdditionalPartyCondtions.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\AdditionalPartyCondtions.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Ronin.exe.config
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\Ronin.exe
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\Ronin.pdb
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\LexActivator.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Product.dat
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\LexActivator64.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Resources\ItemName-e.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Resources\npcname-e.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Resources\skillgrp.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Resources\skillname-e.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Resources\Weapongrp.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Ronin.exe
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Ronin.pdb
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\log4net.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\MahApps.Metro.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\System.Windows.Interactivity.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\RemoteASMNative.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Udis86Net.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\log4net.xml
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\MahApps.Metro.pdb
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\MahApps.Metro.xml
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\Ronin.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\AdditionalPartyCondtions.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\AdditionalSelfCondtions.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\AdditionalNukeCondtions.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\ConfigurationWindow.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\LoginForm.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\SurroundingUnits.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\Ronin_Content.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\Ronin_MarkupCompile.cache
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\Ronin_MarkupCompile.lref
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\App.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\AdditionalPartyCondtions.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\AdditionalSelfCondtions.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\AdditionalNukeCondtions.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\ConfigurationWindow.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\LoginForm.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\SurroundingUnits.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\Ronin.g.resources
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\Ronin.Properties.Resources.resources
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\Ronin.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\SaveConfiguration.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\SaveConfiguration.baml
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\csvb.exe
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\RemoteASM.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\RemoteASMNative.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Udis86Net.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\SharpDisasm.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\SharpDisasm.xml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Ronin.exe.config
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\Ronin.exe
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\Ronin.pdb
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\LexActivator.dll
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Product.dat
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\LexActivator64.dll
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\csvb.exe
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Resources\ItemName-e.txt
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Resources\npcname-e.txt
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Resources\skillgrp.txt
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Resources\skillname-e.txt
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Resources\Weapongrp.txt
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Ronin.exe
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Ronin.pdb
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\GreyMagic.dll
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\log4net.dll
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\MahApps.Metro.dll
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\RemoteASM.dll
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\SharpDisasm.dll
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\System.Windows.Interactivity.dll
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\RemoteASMNative.dll
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Udis86Net.dll
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\log4net.xml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\MahApps.Metro.pdb
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\MahApps.Metro.xml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\bin\Debug\SharpDisasm.xml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\AdditionalPartyCondtions.g.cs
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\AdditionalSelfCondtions.g.cs
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\AdditionalNukeCondtions.g.cs
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\ConfigurationWindow.g.cs
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\LoginForm.g.cs
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\MainWindow.g.cs
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\SaveConfiguration.g.cs
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\SurroundingUnits.g.cs
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\App.g.cs
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\Ronin_Content.g.cs
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\Ronin_MarkupCompile.cache
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\Ronin_MarkupCompile.lref
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\App.baml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\AdditionalPartyCondtions.baml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\AdditionalSelfCondtions.baml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\AdditionalNukeCondtions.baml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\ConfigurationWindow.baml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\LoginForm.baml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\MainWindow.baml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\SaveConfiguration.baml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\SurroundingUnits.baml
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\Ronin.g.resources
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\Ronin.Properties.Resources.resources
+E:\Visual Studio Projects\Ronin - Copy\Ronin\obj\Debug\Ronin.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\scr.exe
+E:\Visual Studio Projects\Ronin\Ronin\bin\Debug\Resources\skillname-eIL.txt
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\Ronin.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\csvb.exe
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\Resources\skillname-eIL.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\scr.exe
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\SharpDisasm.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Debug\SharpDisasm.xml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\SaveConfiguration.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Debug\SaveConfiguration.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\DynamicNpcsAround.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Debug\DynamicNpcsAround.baml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\LexActivator.dll
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Product.dat
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\LexActivator64.dll
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\csvb.exe
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Resources\ItemName-e.txt
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Resources\skillname-eIL.txt
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\scr.exe
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Resources\npcname-e.txt
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Resources\skillgrp.txt
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Resources\skillname-e.txt
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Resources\Weapongrp.txt
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Ronin.exe.config
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Ronin.exe
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Ronin.pdb
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\GreyMagic.dll
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\log4net.dll
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\MahApps.Metro.dll
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Newtonsoft.Json.dll
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\RemoteASM.dll
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\SharpDisasm.dll
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\System.Windows.Interactivity.dll
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\RemoteASMNative.dll
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Udis86Net.dll
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\log4net.xml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\MahApps.Metro.pdb
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\MahApps.Metro.xml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\Newtonsoft.Json.xml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\bin\Debug\SharpDisasm.xml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\Ronin.csprojResolveAssemblyReference.cache
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\AdditionalPartyCondtions.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\AdditionalSelfCondtions.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\AdditionalNukeCondtions.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\ConfigurationWindow.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\LoginForm.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\MainWindow.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\SaveConfiguration.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\DynamicNpcsAround.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\SurroundingUnits.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\App.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\Ronin_Content.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\Ronin_MarkupCompile.cache
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\Ronin_MarkupCompile.lref
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\App.baml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\AdditionalPartyCondtions.baml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\AdditionalSelfCondtions.baml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\AdditionalNukeCondtions.baml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\ConfigurationWindow.baml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\LoginForm.baml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\MainWindow.baml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\SaveConfiguration.baml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\DynamicNpcsAround.baml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\SurroundingUnits.baml
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\Ronin.g.resources
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\Ronin.Properties.Resources.resources
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\Ronin.csproj.GenerateResource.Cache
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\Ronin.exe
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\Ronin.pdb
+G:\Visual Studio Projects\Ronin - Copy (2)\Ronin\obj\Debug\Ronin.csproj.CoreCompileInputs.cache

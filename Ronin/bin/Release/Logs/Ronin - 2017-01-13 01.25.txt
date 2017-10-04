@@ -1,0 +1,10 @@
+2017-01-13 01:25:07,470 [1] INFO  RONIN  - L2 Ronin BETA 1.0.0.160
+2017-01-13 01:25:07,481 [1] DEBUG MainWindow.xaml - 1.0.0.160
+2017-01-13 01:25:07,482 [1] DEBUG MainWindow.xaml - Windows 7
+2017-01-13 01:25:07,482 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-01-13 01:25:07,495 [48] INFO Injector - Waiting for a game client to be launched...
+2017-01-13 01:25:10,501 [48] DEBUG Injector - Detected game client.
+2017-01-13 01:25:10,515 [50] INFO Injector - Injecting at PID: 3260
+2017-01-13 01:25:12,838 [11] DEBUG App.xaml - Version successfully queued: 1.0.0.160
+2017-01-13 01:25:12,839 [11] INFO App.xaml - Bot is up to date.
+2017-01-13 01:25:23,621 [46] DEBUG Client - Game client has been disconnected.

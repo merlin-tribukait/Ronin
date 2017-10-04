@@ -1,0 +1,112 @@
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Ronin.exe.config
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\LexActivator.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Product.dat
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\LexActivator64.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Ronin.exe
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Ronin.pdb
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\GreyMagic.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\log4net.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\MahApps.Metro.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\System.Windows.Interactivity.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\log4net.xml
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\MahApps.Metro.pdb
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\MahApps.Metro.xml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\ConfigurationWindow.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\LoginForm.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\MainWindow.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\SurroundingUnits.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\App.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\Ronin_Content.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\Ronin_MarkupCompile.cache
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\Ronin_MarkupCompile.lref
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\App.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\ConfigurationWindow.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\LoginForm.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\MainWindow.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\SurroundingUnits.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\Ronin.g.resources
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\Ronin.Properties.Resources.resources
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\Ronin.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\Ronin.exe
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\Ronin.pdb
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Newtonsoft.Json.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Newtonsoft.Json.xml
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Resources\itemname-e.txt
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Resources\npcname-e.txt
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Resources\skillgrp.txt
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Resources\skillname-e.txt
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Resources\Weapongrp.txt
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\AdditionalNukeCondtions.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\AdditionalNukeCondtions.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\AdditionalPartyCondtions.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\AdditionalSelfCondtions.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\AdditionalPartyCondtions.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\AdditionalSelfCondtions.baml
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\SaveConfiguration.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\SaveConfiguration.baml
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\csvb.exe
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\RemoteASM.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\RemoteASMNative.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Udis86Net.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\SharpDisasm.dll
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\SharpDisasm.xml
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\scr.exe
+E:\Visual Studio Projects\Ronin\Ronin\bin\Release\Resources\skillname-eIL.txt
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\Ronin.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Ronin.exe.config
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\Ronin.exe
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\Ronin.pdb
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\LexActivator.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Product.dat
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\LexActivator64.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\csvb.exe
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Resources\ItemName-e.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Resources\skillname-eIL.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\scr.exe
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Resources\npcname-e.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Resources\skillgrp.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Resources\skillname-e.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Resources\Weapongrp.txt
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Ronin.exe
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Ronin.pdb
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\log4net.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\MahApps.Metro.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\SharpDisasm.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\System.Windows.Interactivity.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\RemoteASMNative.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Udis86Net.dll
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\log4net.xml
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\MahApps.Metro.pdb
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\MahApps.Metro.xml
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Ronin\Ronin\bin\Release\SharpDisasm.xml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\Ronin.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\AdditionalPartyCondtions.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\AdditionalSelfCondtions.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\AdditionalNukeCondtions.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\ConfigurationWindow.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\LoginForm.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\MainWindow.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\SaveConfiguration.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\SurroundingUnits.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\App.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\Ronin_Content.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\GeneratedInternalTypeHelper.g.cs
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\Ronin_MarkupCompile.cache
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\Ronin_MarkupCompile.lref
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\App.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\AdditionalPartyCondtions.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\AdditionalSelfCondtions.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\AdditionalNukeCondtions.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\ConfigurationWindow.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\LoginForm.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\MainWindow.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\SaveConfiguration.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\SurroundingUnits.baml
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\Ronin.g.resources
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\Ronin.Properties.Resources.resources
+\\vmware-host\Shared Folders\Ronin\Ronin\obj\Release\Ronin.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\DynamicNpcsAround.g.cs
+E:\Visual Studio Projects\Ronin\Ronin\obj\Release\DynamicNpcsAround.baml

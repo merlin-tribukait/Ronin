@@ -1,0 +1,25 @@
+2017-02-17 20:11:07,395 [9] DEBUG MainWindow.xaml - 1.0.0.179
+2017-02-17 20:11:07,402 [9] DEBUG MainWindow.xaml - Windows 7
+2017-02-17 20:11:07,402 [9] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-17 20:11:07,414 [20] INFO Injector - Waiting for a game client to be launched...
+2017-02-17 20:11:07,416 [20] DEBUG Injector - Detected game client.
+2017-02-17 20:11:07,435 [21] INFO Injector - Injecting at PID: 4104
+2017-02-17 20:11:12,925 [18] DEBUG App.xaml - Version successfully queued: 1.0.0.179
+2017-02-17 20:11:12,925 [18] INFO App.xaml - Bot is up to date.
+2017-02-17 20:11:19,800 [28] DEBUG Client - -5466593484897846151
+2017-02-17 20:11:19,801 [28] DEBUG Client - 79 , FC , 32 , 51 , 30 , C2 , 22 , B4 
+2017-02-17 20:11:22,698 [10] DEBUG Client - 15 , 00 , 0E , 0F , 7F , 6B , 44 , 17 , BA , D6 , ED , 46 , 8A , 90 , 45 , 9B , 88 , B5 , CE , 12 , 6A 
+2017-02-17 20:11:28,764 [10] DEBUG Client - 05 , 00 , 76 , D7 , CF 
+2017-02-17 20:11:28,973 [28] DEBUG Client - 6B , 00 , 6C , 67 , 6D , EB , F8 , 09 , A7 , 04 , 72 , 3D , A2 , 5B , 8B , 8B , 51 , 9E , 41 , EA , B1 , 76 , FA , 1F , 04 , B8 , C1 , 92 , 92 , 10 , E9 , 2C , AB , 6E , FD , D8 , 32 , AE , 08 , 37 , D9 , CD , 38 , B3 , 0C , E3 , 69 , A3 , BF , 99 , 64 , D6 , 83 , FD , 7F , DC , 5B , 38 , 62 , 52 , 87 , 0A , 79 , 26 , 79 , E8 , 36 , B9 , B5 , 65 , 6E , 29 , 89 , 31 , AC , 43 , 04 , 01 , 3D , 73 , 9C , 74 , 23 , 23 , 5E , FC , 02 , 81 , 41 , D3 , 85 , 17 , 76 , F3 , 03 , 5A , 5B , 14 , 3F , 3A , C7 , D1 , 28 , 51 , 4B , 59 , 0E 
+2017-02-17 20:11:29,413 [10] DEBUG Client - 03 , 00 , 12 
+2017-02-17 20:11:31,747 [30] DEBUG Client - 17 , 00 , 94 , CD , FF , 86 , B8 , B8 , 20 , 56 , B6 , C7 , 0C , 63 , AC , 4C , 38 , 24 , B4 , 13 , 97 , 71 , 4F 
+2017-02-17 20:11:31,748 [30] DEBUG Client - 05 , 00 , 09 , 2A , 90 
+2017-02-17 20:11:31,750 [30] DEBUG Client - 0E , 00 , E1 , CA , D9 , 9A , 3C , 7C , 13 , CA , AC , 16 , FD , 2E 
+2017-02-17 20:11:37,257 [30] DEBUG Client - 14 , 00 , 57 , B4 , F4 , DF , 38 , A8 , 44 , 02 , C6 , 82 , 14 , F1 , 0E , B9 , A7 , 4B , 17 , 28 
+2017-02-17 20:11:39,715 [30] DEBUG Client - 05 , 00 , 29 , 09 , B6 
+2017-02-17 20:11:40,306 [29] DEBUG Client - 14 , 00 , 44 , 79 , 77 , 63 , CB , 8E , 03 , 1E , 28 , 88 , 73 , 8D , CA , D5 , 07 , 08 , 57 , A8 
+2017-02-17 20:11:42,772 [28] DEBUG Client - 05 , 00 , 7F , 8E , C1 
+2017-02-17 20:11:43,902 [28] DEBUG Client - 14 , 00 , 08 , 07 , 16 , 1E , 22 , 63 , ED , 5B , 22 , D4 , 12 , E3 , 14 , 25 , 13 , 9D , 86 , 5C 
+2017-02-17 20:11:47,043 [10] DEBUG Client - 05 , 00 , F4 , DD , 49 
+2017-02-17 20:11:49,935 [28] DEBUG Client - 03 , 00 , 13 
+2017-02-17 20:11:50,062 [28] DEBUG Client - Game client has been disconnected.

@@ -1,0 +1,20 @@
+2017-01-13 10:52:41,839 [1] DEBUG MainWindow.xaml - 1.0.0.161
+2017-01-13 10:52:41,847 [1] DEBUG MainWindow.xaml - Windows 7
+2017-01-13 10:52:41,848 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-01-13 10:52:41,852 [57] INFO Injector - Waiting for a game client to be launched...
+2017-01-13 10:52:47,249 [11] DEBUG App.xaml - Version successfully queued: 1.0.0.161
+2017-01-13 10:52:47,249 [11] INFO App.xaml - Bot is up to date.
+2017-01-13 10:52:54,854 [57] DEBUG Injector - Detected game client.
+2017-01-13 10:52:54,866 [53] INFO Injector - Injecting at PID: 7100
+2017-01-13 10:53:01,960 [57] DEBUG Injector - Detected game client.
+2017-01-13 10:53:01,964 [26] INFO Injector - Injecting at PID: 6352
+2017-01-13 10:53:03,061 [57] DEBUG Injector - Detected game client.
+2017-01-13 10:53:03,063 [44] INFO Injector - Injecting at PID: 3172
+2017-01-13 10:53:30,606 [3] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:53:34,415 [26] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:53:43,029 [3] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:53:50,481 [54] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:53:55,213 [52] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:54:00,528 [3] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:54:05,548 [50] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:54:11,061 [50] DEBUG Client - Game client has been disconnected.

@@ -1,0 +1,13 @@
+2017-02-14 19:16:36,716 [9] DEBUG MainWindow.xaml - 1.0.0.179
+2017-02-14 19:16:36,724 [9] DEBUG MainWindow.xaml - Windows 7
+2017-02-14 19:16:36,724 [9] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-14 19:16:36,726 [19] INFO Injectora - Waiting for a game client to be launched...
+2017-02-14 19:16:36,728 [19] DEBUG Injectora - Detected game client.
+2017-02-14 19:16:42,079 [18] DEBUG App.xaml - Version successfully queued: 1.0.0.179
+2017-02-14 19:16:42,079 [18] INFO App.xaml - Bot is up to date.
+2017-02-14 19:16:45,319 [20] DEBUG Injectora - System.ArgumentOutOfRangeException: maxNumberOfServerInstances must either be a value between 1 and 254, or NamedPipeServerStream.MaxAllowedServerInstances (to obtain the maximum number allowed by system resources).
+Parameter name: maxNumberOfServerInstances
+   at System.IO.Pipes.NamedPipeServerStream..ctor(String pipeName, PipeDirection direction, Int32 maxNumberOfServerInstances, PipeTransmissionMode transmissionMode, PipeOptions options, Int32 inBufferSize, Int32 outBufferSize, PipeSecurity pipeSecurity, HandleInheritability inheritability, PipeAccessRights additionalAccessRights)
+   at System.IO.Pipes.NamedPipeServerStream..ctor(String pipeName, PipeDirection direction, Int32 maxNumberOfServerInstances, PipeTransmissionMode transmissionMode, PipeOptions options)
+   at Ronin.Utilities.Injectora.Inject() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 270
+   at Ronin.Utilities.Injectora.<>c__DisplayClass11_0.<RerouteL2s>b__1() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 88

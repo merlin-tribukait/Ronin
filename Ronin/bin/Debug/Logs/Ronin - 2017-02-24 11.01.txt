@@ -1,0 +1,19 @@
+2017-02-24 11:01:54,215 [9] DEBUG MainWindow.xaml - 1.0.0.180
+2017-02-24 11:01:54,222 [9] DEBUG MainWindow.xaml - Windows 7
+2017-02-24 11:01:54,222 [9] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-24 11:01:54,226 [19] INFO Injectora - Waiting for a game client to be launched...
+2017-02-24 11:01:54,824 [18] DEBUG App.xaml - Version successfully queued: 1.0.0.180
+2017-02-24 11:01:54,825 [18] INFO App.xaml - Bot is up to date.
+2017-02-24 11:01:58,228 [19] DEBUG Injectora - Detected game client.
+2017-02-24 11:02:12,665 [25] DEBUG Injectora - 050001020A
+2017-02-24 11:03:29,463 [25] DEBUG Injectora - 
+2017-02-24 11:03:29,471 [25] DEBUG App.xaml - Unhandled exception: 
+2017-02-24 11:03:29,472 [25] DEBUG App.xaml - System.IO.IOException: Pipe is broken.
+   at System.IO.Pipes.NamedPipeServerStream.CheckConnectOperationsServer()
+   at System.IO.Pipes.NamedPipeServerStream.WaitForConnection()
+   at Ronin.Utilities.Injectora.receiveOutgoingPacketsFromDLL() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 602
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()

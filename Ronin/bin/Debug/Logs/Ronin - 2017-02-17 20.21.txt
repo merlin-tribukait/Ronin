@@ -1,0 +1,24 @@
+2017-02-17 20:21:42,295 [8] DEBUG MainWindow.xaml - 1.0.0.179
+2017-02-17 20:21:42,302 [8] DEBUG MainWindow.xaml - Windows 7
+2017-02-17 20:21:42,302 [8] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-17 20:21:42,310 [19] INFO Injector - Waiting for a game client to be launched...
+2017-02-17 20:21:42,312 [19] DEBUG Injector - Detected game client.
+2017-02-17 20:21:42,343 [20] INFO Injector - Injecting at PID: 9312
+2017-02-17 20:21:49,761 [17] DEBUG App.xaml - Version successfully queued: 1.0.0.179
+2017-02-17 20:21:49,761 [17] INFO App.xaml - Bot is up to date.
+2017-02-17 20:21:58,702 [9] DEBUG App.xaml - Unhandled exception: 
+2017-02-17 20:21:58,703 [9] DEBUG App.xaml - System.IO.EndOfStreamException: Unable to read beyond the end of the stream.
+   at System.IO.MemoryStream.InternalReadInt32()
+   at System.IO.BinaryReader.ReadInt32()
+   at Ronin.Utilities.PacketReader.ReadInt() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\PacketReader.cs:line 71
+   at Ronin.Protocols.Interlude.Incoming.SkillList.Parse(L2PlayerData data) in E:\Visual Studio Projects\Ronin\Ronin\Protocols\Interlude\Incoming\SkillList.cs:line 29
+   at Ronin.Network.Client.OnServerReceiveData(IAsyncResult result) in E:\Visual Studio Projects\Ronin\Ronin\Network\Client.cs:line 764
+   at System.Net.LazyAsyncResult.Complete(IntPtr userToken)
+   at System.Net.ContextAwareResult.CompleteCallback(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.ContextAwareResult.Complete(IntPtr userToken)
+   at System.Net.LazyAsyncResult.ProtectedInvokeCallback(Object result, IntPtr userToken)
+   at System.Net.Sockets.BaseOverlappedAsyncResult.CompletionPortCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)
+   at System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)

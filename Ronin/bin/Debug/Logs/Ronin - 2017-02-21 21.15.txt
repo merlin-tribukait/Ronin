@@ -1,0 +1,13 @@
+2017-02-21 21:15:29,079 [9] DEBUG MainWindow.xaml - 1.0.0.180
+2017-02-21 21:15:29,086 [9] DEBUG MainWindow.xaml - Windows 7
+2017-02-21 21:15:29,086 [9] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-21 21:15:29,089 [19] INFO Injectora - Waiting for a game client to be launched...
+2017-02-21 21:15:33,093 [19] DEBUG Injectora - Detected game client.
+2017-02-21 21:15:34,668 [18] DEBUG App.xaml - Version successfully queued: 1.0.0.180
+2017-02-21 21:15:34,668 [18] INFO App.xaml - Bot is up to date.
+2017-02-21 21:15:39,703 [22] DEBUG Injectora - System.ArgumentNullException: Value cannot be null.
+Parameter name: stream
+   at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at Ronin.Utilities.Injectora.Inject() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 281
+   at Ronin.Utilities.Injectora.<>c__DisplayClass11_0.<RerouteL2s>b__1() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 89

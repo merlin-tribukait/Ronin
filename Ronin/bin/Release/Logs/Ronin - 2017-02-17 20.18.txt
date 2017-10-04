@@ -1,0 +1,26 @@
+2017-02-17 20:18:33,310 [1] DEBUG MainWindow.xaml - 1.0.0.179
+2017-02-17 20:18:33,318 [1] DEBUG MainWindow.xaml - Windows 7
+2017-02-17 20:18:33,318 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-17 20:18:33,325 [46] INFO Injector - Waiting for a game client to be launched...
+2017-02-17 20:18:34,276 [11] DEBUG App.xaml - Version successfully queued: 1.0.0.179
+2017-02-17 20:18:34,276 [11] INFO App.xaml - Bot is up to date.
+2017-02-17 20:18:37,329 [46] DEBUG Injector - Detected game client.
+2017-02-17 20:18:37,343 [50] INFO Injector - Injecting at PID: 8916
+2017-02-17 20:18:58,378 [20] DEBUG App.xaml - Unhandled exception: 
+2017-02-17 20:18:58,378 [20] DEBUG App.xaml - System.IO.EndOfStreamException: Unable to read beyond the end of the stream.
+   at System.IO.BinaryReader.FillBuffer(Int32 numBytes)
+   at System.IO.BinaryReader.ReadInt16()
+   at (Object )
+   at Ronin.MethodSerializer.NavigateAspect(Object )
+   at Ronin.StubOptions.NavigateAspect()
+   at Ronin.StreamService.NavigateAspect(L2PlayerData )
+   at Ronin.FunctionScope.TestDeployment(IAsyncResult )
+   at System.Net.LazyAsyncResult.Complete(IntPtr userToken)
+   at System.Net.ContextAwareResult.CompleteCallback(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.ContextAwareResult.Complete(IntPtr userToken)
+   at System.Net.LazyAsyncResult.ProtectedInvokeCallback(Object result, IntPtr userToken)
+   at System.Net.Sockets.BaseOverlappedAsyncResult.CompletionPortCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)
+   at System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)

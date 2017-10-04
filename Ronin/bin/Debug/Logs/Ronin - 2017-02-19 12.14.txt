@@ -1,0 +1,8 @@
+2017-02-19 12:14:59,154 [10] DEBUG MainWindow.xaml - 1.0.0.180
+2017-02-19 12:14:59,162 [10] DEBUG MainWindow.xaml - Windows 7
+2017-02-19 12:14:59,162 [10] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-19 12:14:59,164 [20] INFO Injectora - Waiting for a game client to be launched...
+2017-02-19 12:14:59,165 [20] DEBUG Injectora - Detected game client.
+2017-02-19 12:15:04,714 [19] DEBUG App.xaml - Version successfully queued: 1.0.0.180
+2017-02-19 12:15:04,714 [19] INFO App.xaml - Bot is up to date.
+2017-02-19 12:17:19,341 [20] DEBUG Injectora - Detected game client.

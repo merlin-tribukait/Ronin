@@ -1,0 +1,31 @@
+2017-02-08 16:26:55,592 [10] DEBUG Injector - new instance 9212
+2017-02-08 16:26:55,600 [10] DEBUG Injector - new instance 9384
+2017-02-08 16:26:55,602 [10] DEBUG Injector - new instance 7028
+2017-02-08 16:26:56,308 [1] DEBUG MainWindow.xaml - 1.0.0.179
+2017-02-08 16:26:56,310 [1] DEBUG MainWindow.xaml - Windows 7
+2017-02-08 16:26:56,310 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-08 16:26:56,316 [64] INFO Injector - Waiting for a game client to be launched...
+2017-02-08 16:27:01,218 [10] DEBUG Injector - new instance 6872
+2017-02-08 16:27:01,320 [64] DEBUG Injector - Detected game client.
+2017-02-08 16:27:01,335 [66] INFO Injector - Injecting at PID: 6872
+2017-02-08 16:27:01,718 [11] DEBUG App.xaml - Version successfully queued: 1.0.0.178
+2017-02-08 16:27:01,718 [11] DEBUG App.xaml - A new version detected.
+2017-02-08 16:27:07,239 [10] DEBUG Injector - new instance 6384
+2017-02-08 16:27:07,424 [64] DEBUG Injector - Detected game client.
+2017-02-08 16:27:07,426 [60] INFO Injector - Injecting at PID: 6384
+2017-02-08 16:27:14,866 [10] DEBUG Injector - new instance 912
+2017-02-08 16:27:15,529 [64] DEBUG Injector - Detected game client.
+2017-02-08 16:27:15,532 [54] INFO Injector - Injecting at PID: 912
+2017-02-08 16:27:20,630 [64] DEBUG Injector - Detected game client.
+2017-02-08 16:27:20,633 [65] INFO Injector - Injecting at PID: 4880
+2017-02-08 16:27:20,691 [10] DEBUG Injector - new instance 6676
+2017-02-08 16:27:21,731 [64] DEBUG Injector - Detected game client.
+2017-02-08 16:27:21,733 [25] INFO Injector - Injecting at PID: 6676
+2017-02-08 16:27:26,540 [10] DEBUG Injector - new instance 4680
+2017-02-08 16:27:26,839 [64] DEBUG Injector - Detected game client.
+2017-02-08 16:27:26,841 [53] INFO Injector - Injecting at PID: 4680
+2017-02-08 16:27:47,806 [10] DEBUG Injector - new instance 5092
+2017-02-08 16:27:47,966 [64] DEBUG Injector - Detected game client.
+2017-02-08 16:27:47,968 [59] INFO Injector - Injecting at PID: 5092
+2017-02-08 16:27:51,210 [10] DEBUG Injector - new instance 5636
+2017-02-08 16:27:51,212 [10] DEBUG Injector - new instance 8744

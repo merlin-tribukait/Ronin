@@ -1,0 +1,130 @@
+﻿<controls:MetroWindow x:Class="Ronin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ronin"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:utilities="clr-namespace:Ronin.Utilities"
+        mc:Ignorable="d"
+                      TitleForeground="Black" 
+        ResizeMode="CanMinimize"  
+        Title="L2 Ronin" Height="550" Width="725"
+        TitleCharacterCasing="Normal" Closing="MetroWindow_Closing" StateChanged="MetroWindow_StateChanged">
+    <Window.Resources>
+        <utilities:BoolToBrushConverter x:Key="brushConverter" />
+        <utilities:BoolToStringConverter x:Key="stringConverter" />
+        <utilities:InverseBoolConverter x:Key="inverseBoolConverter" />
+    </Window.Resources>
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="160"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Border BorderThickness="1" BorderBrush="Gray" Margin="0,0,0,0">
+                <ListBox x:Name="BotsList" ItemsSource="{Binding Bots}" SelectedItem="{Binding SelectedBot, Mode=TwoWay}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Height="70" >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="20"></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="25"/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Border BorderThickness="0" BorderBrush="Black" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center">
+                                <TextBlock Grid.Column="0" Grid.Row="0" FontSize="13" FontWeight="Bold" Text="{Binding PlayerData.MainHero.Level}"/>
+                            </Border>
+                            <TextBlock Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" FontSize="14" FontWeight="Bold" FontStyle="Italic" Text="{Binding PlayerData.MainHero.Name}" />
+                            <TextBlock Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" FontSize="14">HP</TextBlock>
+                            <TextBlock Grid.Column="0" Grid.Row="2" HorizontalAlignment="Center" FontSize="14">MP</TextBlock>
+                                <Border BorderThickness="1" BorderBrush="Black" Grid.Column="1" Grid.Row="1" Height="13"  Width="100">
+                                <controls:MetroProgressBar Foreground="Red" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="1" Minimum="0" Maximum="100" Value="{Binding PlayerData.MainHero.HealthPercent, Mode=OneWay}" Height="13"  Width="100" HorizontalContentAlignment="Left"></controls:MetroProgressBar>
+                                </Border>
+                                <Border BorderThickness="1" BorderBrush="Black" Grid.Column="1" Grid.Row="2" Height="13"  Width="100">
+                                    <controls:MetroProgressBar Foreground="Blue" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="2" Minimum="0" Maximum="100" Value="{Binding PlayerData.MainHero.ManaPercent, Mode=OneWay}" Height="13"  Width="100" HorizontalContentAlignment="Left"></controls:MetroProgressBar>
+                                </Border>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            </Border>
+            <Border Grid.Column="1" BorderThickness="1" BorderBrush="Gray" Margin="-1,0,0,0">
+            <Grid  >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="3*"/>
+                    <RowDefinition Height="2*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="18" FontWeight="Bold" Text="{Binding SelectedBot.PlayerData.MainHero.Name, FallbackValue=Unknown}"/>
+                        <StackPanel Grid.Row="1" Orientation="Horizontal"  HorizontalAlignment="Center" >
+                            <TextBlock Grid.Row="1" FontSize="14" Text="{Binding SelectedBot.PlayerData.MainHero.Level, FallbackValue=0}"/>
+                            <TextBlock Grid.Row="1" FontSize="14" Margin="3,0,0,0"> lv. </TextBlock>
+                            <TextBlock Grid.Row="1" FontSize="14" Margin="7,0,0,0" Text="{Binding SelectedBot.PlayerData.MainHero.ClassId, FallbackValue=None}"/>
+                        </StackPanel>
+                    </Grid>
+                    <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Top">
+                        <Grid>
+                            <Border BorderThickness="1" BorderBrush="Black" Grid.Row="2" Height="22"  Width="150">
+                                <controls:MetroProgressBar HorizontalAlignment="Center" Foreground="Orange" Grid.Row="2" Width="150" Height="22" Value="{Binding SelectedBot.PlayerData.MainHero.CombatPointsPercent, Mode=OneWay}"/>
+                            </Border>
+                            <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center">
+                                <TextBlock VerticalAlignment="Center"  Text="{Binding SelectedBot.PlayerData.MainHero.CombatPoints, Mode=OneWay, FallbackValue=0}"></TextBlock>
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" >/</TextBlock>
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Text="{Binding SelectedBot.PlayerData.MainHero.MaxCombatPoints, Mode=OneWay, FallbackValue=0}"></TextBlock>
+                            </StackPanel>
+                        </Grid>
+                        
+                        <Grid Margin="10,0,0,0">
+                            <Border BorderThickness="1" BorderBrush="Black" Grid.Row="2" Height="22"  Width="150">
+                                <controls:MetroProgressBar HorizontalAlignment="Center" Foreground="Crimson" Grid.Row="2" Width="150" Height="22" Value="{Binding SelectedBot.PlayerData.MainHero.HealthPercent, Mode=OneWay}"/>
+                            </Border>
+                            <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center">
+                                <TextBlock VerticalAlignment="Center"  Text="{Binding SelectedBot.PlayerData.MainHero.Health, Mode=OneWay, FallbackValue=0}"></TextBlock>
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" >/</TextBlock>
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Text="{Binding SelectedBot.PlayerData.MainHero.MaxHealth, Mode=OneWay, FallbackValue=0}"></TextBlock>
+                            </StackPanel>
+                        </Grid>
+                        
+                        <Grid Margin="10,0,0,0">
+                            <Border BorderThickness="1" BorderBrush="Black" Grid.Row="2" Height="22"  Width="150">
+                                <controls:MetroProgressBar HorizontalAlignment="Center" Foreground="DodgerBlue" Grid.Row="2" Width="150" Height="22" Value="{Binding SelectedBot.PlayerData.MainHero.ManaPercent, Mode=OneWay}"/>
+                            </Border>
+                            <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center">
+                                <TextBlock VerticalAlignment="Center"  Text="{Binding SelectedBot.PlayerData.MainHero.Mana, Mode=OneWay, FallbackValue=0}"></TextBlock>
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" >/</TextBlock>
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Text="{Binding SelectedBot.PlayerData.MainHero.MaxMana, Mode=OneWay, FallbackValue=0}"></TextBlock>
+                            </StackPanel>
+                        </Grid>
+                    </StackPanel>
+                    <StackPanel Grid.Row="0" VerticalAlignment="Center">
+                        <Button Content="{Binding SelectedBot.Engine.Running, Converter={StaticResource stringConverter}, FallbackValue=Start}" Width="350" Height="40" Background="{Binding SelectedBot.Engine.Running, Converter={StaticResource brushConverter}, FallbackValue=DarkGreen}" Foreground="White" FontSize="18" Click="StartButton_Click" />
+                    </StackPanel>
+                    <Button  Width="300" Height="30" Grid.Row="5" FontSize="14" VerticalAlignment="Top" Click="Button_Click">CONFIGURATION</Button>
+                    <TextBlock Grid.Row="5" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="16" Name="versionLabel"/>
+                </Grid>
+                <ScrollViewer x:Name="Scroller" ScrollChanged="Scroller_ScrollChanged" Grid.Row="1">
+                    <RichTextBox x:Name="textBoxLog" HorizontalAlignment="Left" VerticalAlignment="Stretch" FontSize="14" IsReadOnly="True" Block.LineHeight="1"></RichTextBox>
+                </ScrollViewer>
+            </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</controls:MetroWindow>

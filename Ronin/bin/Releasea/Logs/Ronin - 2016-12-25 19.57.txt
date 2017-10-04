@@ -1,0 +1,10 @@
+2016-12-25 19:57:12,887 [1] DEBUG MainWindow.xaml - 1.0.0.64
+2016-12-25 19:57:12,894 [1] DEBUG MainWindow.xaml - Windows 7 or Above
+2016-12-25 19:57:12,894 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2016-12-25 19:57:12,896 [7] INFO Injector - Waiting for a game client to be launched...
+2016-12-25 19:57:19,255 [3] DEBUG App.xaml - Closing for update...
+2016-12-25 19:57:26,226 [1] DEBUG MainWindow.xaml - 1.0.0.66
+2016-12-25 19:57:26,232 [1] DEBUG MainWindow.xaml - Windows 7 or Above
+2016-12-25 19:57:26,232 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2016-12-25 19:57:26,235 [10] INFO Injector - Waiting for a game client to be launched...
+2016-12-25 19:57:27,285 [3] INFO App.xaml - Bot is up to date.

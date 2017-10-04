@@ -1,0 +1,30 @@
+2017-01-13 05:19:19,922 [1] DEBUG MainWindow.xaml - 1.0.0.160
+2017-01-13 05:19:19,931 [1] DEBUG MainWindow.xaml - Windows 7
+2017-01-13 05:19:19,931 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-01-13 05:19:19,936 [42] INFO Injector - Waiting for a game client to be launched...
+2017-01-13 05:19:24,947 [42] DEBUG Injector - Detected game client.
+2017-01-13 05:19:24,958 [31] INFO Injector - Injecting at PID: 4524
+2017-01-13 05:19:25,350 [11] DEBUG App.xaml - Version successfully queued: 1.0.0.160
+2017-01-13 05:19:25,350 [11] INFO App.xaml - Bot is up to date.
+2017-01-13 05:19:41,594 [35] DEBUG Client - Game client has been disconnected.
+2017-01-13 05:19:44,073 [42] DEBUG Injector - Detected game client.
+2017-01-13 05:19:44,076 [19] INFO Injector - Injecting at PID: 12440
+2017-01-13 05:19:57,677 [32] DEBUG Client - Game client has been disconnected.
+2017-01-13 05:20:01,167 [35] DEBUG Client - Game client has been disconnected.
+2017-01-13 05:20:07,907 [35] DEBUG Client - Game client has been disconnected.
+2017-01-13 05:20:13,445 [36] DEBUG Client - Game client has been disconnected.
+2017-01-13 05:20:16,727 [36] DEBUG App.xaml - Unhandled exception: 
+2017-01-13 05:20:16,728 [36] DEBUG App.xaml - System.IO.EndOfStreamException: Unable to read beyond the end of the stream.
+   at System.IO.MemoryStream.InternalReadInt32()
+   at System.IO.BinaryReader.ReadInt32()
+   at Ronin.Protocols.Interlude.Incoming.SkillList.Parse(L2PlayerData data) in E:\Visual Studio Projects\Ronin\Ronin\Protocols\Interlude\Incoming\SkillList.cs:line 28
+   at Ronin.Network.Client.OnServerReceiveData(IAsyncResult result) in E:\Visual Studio Projects\Ronin\Ronin\Network\Client.cs:line 746
+   at System.Net.LazyAsyncResult.Complete(IntPtr userToken)
+   at System.Net.ContextAwareResult.CompleteCallback(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.ContextAwareResult.Complete(IntPtr userToken)
+   at System.Net.LazyAsyncResult.ProtectedInvokeCallback(Object result, IntPtr userToken)
+   at System.Net.Sockets.BaseOverlappedAsyncResult.CompletionPortCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)
+   at System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)

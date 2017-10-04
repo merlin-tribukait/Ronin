@@ -1,0 +1,27 @@
+2017-02-14 19:04:38,792 [10] DEBUG MainWindow.xaml - 1.0.0.179
+2017-02-14 19:04:38,800 [10] DEBUG MainWindow.xaml - Windows 7
+2017-02-14 19:04:38,800 [10] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-14 19:04:38,802 [21] INFO Injectora - Waiting for a game client to be launched...
+2017-02-14 19:04:43,819 [21] DEBUG Injectora - Detected game client.
+2017-02-14 19:04:44,355 [19] DEBUG App.xaml - Version successfully queued: 1.0.0.179
+2017-02-14 19:04:44,356 [19] INFO App.xaml - Bot is up to date.
+2017-02-14 19:05:03,602 [16] DEBUG Injectora - Hello Pipe
+2017-02-14 19:05:03,602 [16] DEBUG Injectora - Hello Pipe
+2017-02-14 19:05:03,603 [16] DEBUG Injectora - Hello zzze
+2017-02-14 19:05:03,603 [16] DEBUG Injectora - Hello Pipe
+2017-02-14 19:05:03,604 [16] DEBUG Injectora - 050001020A
+2017-02-14 19:05:03,604 [16] DEBUG Injectora - Hello Pipe
+2017-02-14 19:05:03,604 [16] DEBUG Injectora - 050001020A
+2017-02-14 19:09:28,473 [16] DEBUG Injectora - 19002E0155FF43FF74FFFFFF01000000000000000000000000
+2017-02-14 19:09:29,491 [16] DEBUG Injectora - 690109010000000700000000610073006100730071007700650000007A0B03006B007200690073006900700069006F003200000010FFFF67000000000000000000000000000000000000000001000000FFFF000048FF020068FFFFFF0000000000FF5F400000000000004340000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007C0400000200000000000000330000001B0000002100000027000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FF5F4000000000000043400000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000204E0000
+2017-02-14 19:09:30,500 [16] DEBUG Injectora - 
+2017-02-14 19:09:30,507 [16] DEBUG App.xaml - Unhandled exception: 
+2017-02-14 19:09:30,507 [16] DEBUG App.xaml - System.IO.IOException: Pipe is broken.
+   at System.IO.Pipes.NamedPipeServerStream.CheckConnectOperationsServer()
+   at System.IO.Pipes.NamedPipeServerStream.WaitForConnection()
+   at Ronin.Utilities.Injectora.receiveIncomingPacketsFromDLL() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 294
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()

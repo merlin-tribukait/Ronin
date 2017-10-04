@@ -1,0 +1,17 @@
+How to Install:
+Unzip the program in a folder of your choosing.(Example - D:\Ronin)
+You will use Ronin.exe to start the program always as administrator & it will automatically ask you for updates if there are available ones.
+When you run it for the first time if your Windows is not up to date, it may ask you for c++ / .netframework updates, let it update.
+If the software fails to run after the updates, make sure that you have Microsoft Visual C++ 2010 x86 installed.
+(in case of manual installation needed, here's the link)
+Download link - https://www.microsoft.com/en-us/download/details.aspx?id=5555 
+Once  your updates are finished you will see Auth form, where you need to input ur key, which you will receive on skype from our representative.
+After that you are ready to begin using the Ronin.
+
+Note: Make sure that your Anti Virus soft or firewall settings are not interfering with the bot.
+
+Report Issue:
+If you have an issue/crash report
+1.Send a picture of the error.
+2.Open your bot folder and there you will see a folder called "Logs".
+2.1 Right click "Logs" folder go to Send to -> Compressed zip folder" & send it to us on Skype.

@@ -1,0 +1,29 @@
+2017-02-08 16:28:56,611 [10] DEBUG Injector - new instance 4288
+2017-02-08 16:28:56,622 [10] DEBUG Injector - new instance 7380
+2017-02-08 16:28:56,624 [10] DEBUG Injector - new instance 2372
+2017-02-08 16:28:56,625 [10] DEBUG Injector - new instance 5008
+2017-02-08 16:28:56,829 [10] DEBUG Injector - new instance 1496
+2017-02-08 16:28:56,831 [10] DEBUG Injector - new instance 8500
+2017-02-08 16:28:56,832 [10] DEBUG Injector - new instance 3632
+2017-02-08 16:28:57,506 [1] DEBUG MainWindow.xaml - 1.0.0.179
+2017-02-08 16:28:57,508 [1] DEBUG MainWindow.xaml - Windows 7
+2017-02-08 16:28:57,508 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-08 16:28:57,512 [54] INFO Injector - Waiting for a game client to be launched...
+2017-02-08 16:29:01,489 [10] DEBUG Injector - new instance 9740
+2017-02-08 16:29:01,514 [54] DEBUG Injector - Detected game client.
+2017-02-08 16:29:01,528 [60] INFO Injector - Injecting at PID: 9740
+2017-02-08 16:29:02,941 [11] DEBUG App.xaml - Version successfully queued: 1.0.0.178
+2017-02-08 16:29:02,941 [11] DEBUG App.xaml - A new version detected.
+2017-02-08 16:29:14,923 [10] DEBUG Injector - new instance 1460
+2017-02-08 16:29:15,617 [54] DEBUG Injector - Detected game client.
+2017-02-08 16:29:15,619 [52] INFO Injector - Injecting at PID: 1460
+2017-02-08 16:29:18,529 [10] DEBUG Injector - new instance 9544
+2017-02-08 16:29:20,534 [10] DEBUG Injector - new instance 9056
+2017-02-08 16:29:20,717 [54] DEBUG Injector - Detected game client.
+2017-02-08 16:29:20,720 [50] INFO Injector - Injecting at PID: 9056
+2017-02-08 16:29:30,572 [10] DEBUG Injector - new instance 6916
+2017-02-08 16:29:30,821 [54] DEBUG Injector - Detected game client.
+2017-02-08 16:29:30,823 [57] INFO Injector - Injecting at PID: 6916
+2017-02-08 16:29:36,388 [10] DEBUG Injector - new instance 6324
+2017-02-08 16:29:36,924 [54] DEBUG Injector - Detected game client.
+2017-02-08 16:29:36,927 [57] INFO Injector - Injecting at PID: 6324

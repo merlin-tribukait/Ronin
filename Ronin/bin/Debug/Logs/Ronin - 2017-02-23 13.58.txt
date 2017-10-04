@@ -1,0 +1,14 @@
+2017-02-23 13:58:39,887 [9] DEBUG MainWindow.xaml - 1.0.0.180
+2017-02-23 13:58:39,895 [9] DEBUG MainWindow.xaml - Windows 7
+2017-02-23 13:58:39,895 [9] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-23 13:58:39,897 [20] INFO Injectora - Waiting for a game client to be launched...
+2017-02-23 13:58:39,899 [20] DEBUG Injectora - Detected game client.
+2017-02-23 13:58:45,458 [18] DEBUG App.xaml - Version successfully queued: 1.0.0.180
+2017-02-23 13:58:45,458 [18] INFO App.xaml - Bot is up to date.
+2017-02-23 14:00:09,727 [21] DEBUG Injectora - System.IO.IOException: Pipe is broken.
+   at System.IO.Pipes.PipeStream.WinIOError(Int32 errorCode)
+   at System.IO.Pipes.PipeStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.Pipes.PipeStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at Ronin.Utilities.Injectora.Inject() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 303
+   at Ronin.Utilities.Injectora.<>c__DisplayClass11_0.<RerouteL2s>b__1() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 89
+2017-02-23 14:00:16,038 [20] DEBUG Injectora - Detected game client.

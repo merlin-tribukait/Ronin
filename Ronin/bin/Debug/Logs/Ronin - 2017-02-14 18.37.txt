@@ -1,0 +1,1 @@
+2017-02-14 18:37:29,535 [3] DEBUG Injectora - Detected game client.

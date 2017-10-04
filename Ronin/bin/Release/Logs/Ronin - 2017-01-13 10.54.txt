@@ -1,0 +1,27 @@
+2017-01-13 10:54:34,451 [1] DEBUG MainWindow.xaml - 1.0.0.161
+2017-01-13 10:54:34,459 [1] DEBUG MainWindow.xaml - Windows 7
+2017-01-13 10:54:34,460 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-01-13 10:54:34,464 [59] INFO Injector - Waiting for a game client to be launched...
+2017-01-13 10:54:37,465 [59] DEBUG Injector - Detected game client.
+2017-01-13 10:54:37,475 [57] INFO Injector - Injecting at PID: 7084
+2017-01-13 10:54:40,053 [11] DEBUG App.xaml - Version successfully queued: 1.0.0.161
+2017-01-13 10:54:40,053 [11] INFO App.xaml - Bot is up to date.
+2017-01-13 10:54:44,568 [59] DEBUG Injector - Detected game client.
+2017-01-13 10:54:44,570 [56] INFO Injector - Injecting at PID: 996
+2017-01-13 10:54:59,792 [27] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:03,758 [3] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:07,715 [27] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:12,328 [55] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:18,000 [55] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:18,001 [3] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:22,261 [3] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:28,221 [3] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:32,395 [27] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:38,238 [51] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:38,238 [27] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:43,017 [3] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:47,061 [3] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:53,791 [51] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:53,792 [27] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:55:58,598 [3] DEBUG Client - Game client has been disconnected.
+2017-01-13 10:56:03,844 [63] DEBUG Client - Game client has been disconnected.

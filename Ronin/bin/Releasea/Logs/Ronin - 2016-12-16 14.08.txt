@@ -1,0 +1,38 @@
+2016-12-16 14:08:33,358 [1] DEBUG MainWindow.xaml - Windows 7 or Above
+2016-12-16 14:08:33,363 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2016-12-16 14:08:33,366 [7] INFO Injector - Waiting for a game client to be launched...
+2016-12-16 14:08:42,982 [3] DEBUG App.xaml - Closing for update...
+2016-12-16 14:08:49,679 [1] DEBUG MainWindow.xaml - Windows 7 or Above
+2016-12-16 14:08:49,684 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2016-12-16 14:08:49,687 [7] INFO Injector - Waiting for a game client to be launched...
+2016-12-16 14:08:50,838 [3] INFO App.xaml - Bot is up to date.
+2016-12-16 14:08:51,696 [7] DEBUG Injector - Detected game client.
+2016-12-16 14:08:51,911 [8] INFO Injector - Injecting at PID: 3852
+2016-12-16 14:09:06,384 [8] DEBUG Injector - Received: 2, 0, 8, 62, 91, 134, 167, 62
+2016-12-16 14:09:06,388 [8] DEBUG Injector - Started proxying to 91.134.167.62:2110 .
+2016-12-16 14:09:07,859 [11] DEBUG Client - Version: 273
+2016-12-16 14:09:08,035 [11] DEBUG Client - 8664047968602131207
+2016-12-16 14:09:08,038 [11] DEBUG Client - 07 , 8B , 79 , 2D , B9 , E1 , 3C , 78 
+2016-12-16 14:09:08,096 [8] DEBUG Injector - System.Exception: Only part of a ReadProcessMemory or WriteProcessMemory request was completed, at addr: 00000000, Size: 256
+   at GreyMagic.ExternalProcessMemory.ReadByteBuffer(IntPtr addr, Void* buffer, Int32 count)
+   at GreyMagic.MemoryBase.ReadBytes(IntPtr addr, Int32 count)
+   at (Object , IntPtr , Int32 )
+   at Ronin.AssemblyService.RemoveTreeNode(Object , IntPtr , Int32 )
+   at Ronin.DatabaseHelper.ViewProvider.RemoveTreeNode()
+2016-12-16 14:09:10,628 [4] DEBUG App.xaml - Unhandled exception: 
+2016-12-16 14:09:10,629 [4] DEBUG App.xaml - System.IO.EndOfStreamException: Unable to read beyond the end of the stream.
+   at System.IO.MemoryStream.InternalReadInt32()
+   at System.IO.BinaryReader.ReadInt32()
+   at (Object )
+   at Ronin.Toolbar.RemoveTreeNode(Object )
+   at Ronin.GroupConverter.RegisterDirectory(L2PlayerData )
+   at Ronin.CommandHelper.BatchBuildView(IAsyncResult )
+   at System.Net.LazyAsyncResult.Complete(IntPtr userToken)
+   at System.Net.ContextAwareResult.CompleteCallback(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.ContextAwareResult.Complete(IntPtr userToken)
+   at System.Net.LazyAsyncResult.ProtectedInvokeCallback(Object result, IntPtr userToken)
+   at System.Net.Sockets.BaseOverlappedAsyncResult.CompletionPortCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)
+   at System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)

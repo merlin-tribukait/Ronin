@@ -1,0 +1,7 @@
+2017-01-13 04:19:43,188 [3] INFO  RONIN  - L2 Ronin BETA 1.0.0.160
+2017-01-13 04:19:43,199 [3] DEBUG MainWindow.xaml - 1.0.0.160
+2017-01-13 04:19:43,201 [3] DEBUG MainWindow.xaml - Windows 7
+2017-01-13 04:19:43,201 [3] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-01-13 04:19:43,206 [41] INFO Injector - Waiting for a game client to be launched...
+2017-01-13 04:19:48,181 [14] DEBUG App.xaml - Version successfully queued: 1.0.0.160
+2017-01-13 04:19:48,181 [14] INFO App.xaml - Bot is up to date.

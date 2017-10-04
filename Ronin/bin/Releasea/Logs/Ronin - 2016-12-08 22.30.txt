@@ -1,0 +1,11 @@
+2016-12-08 22:30:57,291 [1] DEBUG MainWindow.xaml - Windows 7 or Above
+2016-12-08 22:30:57,297 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2016-12-08 22:30:57,299 [7] INFO Injector - Waiting for a game client to be launched...
+2016-12-08 22:30:59,311 [7] DEBUG Injector - Detected game client.
+2016-12-08 22:30:59,524 [8] INFO Injector - Injecting at PID: 6152
+2016-12-08 22:31:02,941 [3] INFO App.xaml - Bot is up to date.
+2016-12-08 22:31:10,065 [8] DEBUG Injector - Received: 2, 0, 8, 62, 91, 134, 167, 62
+2016-12-08 22:31:10,068 [8] DEBUG Injector - Started proxying to 91.134.167.62:2110 .
+2016-12-08 22:31:11,314 [4] DEBUG Client - Version: 273
+2016-12-08 22:31:11,491 [4] DEBUG Client - 2088864695698604926
+2016-12-08 22:31:11,494 [4] DEBUG Client - 7E , 43 , F8 , 9A , 5F , 23 , FD , 1C 

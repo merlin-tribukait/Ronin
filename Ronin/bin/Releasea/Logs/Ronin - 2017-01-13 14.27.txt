@@ -1,0 +1,6 @@
+2017-01-13 14:27:46,542 [1] DEBUG MainWindow.xaml - 1.0.0.162
+2017-01-13 14:27:46,551 [1] DEBUG MainWindow.xaml - Windows 7
+2017-01-13 14:27:46,551 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-01-13 14:27:46,556 [58] INFO Injector - Waiting for a game client to be launched...
+2017-01-13 14:27:51,358 [12] DEBUG App.xaml - Version successfully queued: 1.0.0.162
+2017-01-13 14:27:51,359 [12] INFO App.xaml - Bot is up to date.

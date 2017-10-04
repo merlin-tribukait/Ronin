@@ -1,0 +1,5 @@
+2017-01-13 03:20:21,437 [3] INFO  RONIN  - L2 Ronin BETA 1.0.0.0
+2017-01-13 03:20:21,447 [3] DEBUG MainWindow.xaml - 1.0.0.0
+2017-01-13 03:20:21,449 [3] DEBUG MainWindow.xaml - Windows 7
+2017-01-13 03:20:21,449 [3] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-01-13 03:20:21,453 [59] INFO Injector - Waiting for a game client to be launched...

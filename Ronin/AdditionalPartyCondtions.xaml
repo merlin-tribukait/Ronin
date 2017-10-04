@@ -1,0 +1,73 @@
+﻿<controls:MetroWindow x:Class="Ronin.AdditionalPartyCondtions"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ronin"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+                      WindowStartupLocation="CenterScreen"
+                      ResizeMode="NoResize"
+        controls:ButtonHelper.PreserveTextCase="True"
+        Title="Additional Condtions" Height="420" Width="430">
+    <Border BorderThickness="1" BorderBrush="Black">
+    <Grid Margin="0,0,0,10" HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <TextBlock Text="Party Member HP >" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBox Margin="10,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.PartyHealBuffHandler.SelectedRule.PartyMemberHealthPercentOver, Mode=TwoWay}"/>
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBlock Text="Party Member HP  &lt;" FontSize="16" FontWeight="Normal" VerticalAlignment="Center" Margin="15,0,0,0"/>
+                <TextBox Margin="7,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.PartyHealBuffHandler.SelectedRule.PartyMemberHealthPercentBelow, Mode=TwoWay}"/>
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+                <TextBlock Text="Party Member MP >" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBox Margin="7,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.PartyHealBuffHandler.SelectedRule.PartyMemberManaPercentOver, Mode=TwoWay}" />
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBlock Text="Party Member MP &lt;" FontSize="16" FontWeight="Normal" VerticalAlignment="Center" Margin="15,0,0,0"/>
+                <TextBox Margin="8,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.PartyHealBuffHandler.SelectedRule.PartyMemberManaPercentBelow, Mode=TwoWay}" />
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+        </StackPanel>
+            <StackPanel Grid.Row="2" Orientation="Horizontal">
+                <TextBlock Text="Party Member CP >" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBox Margin="7,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.PartyHealBuffHandler.SelectedRule.PartyMemberCombatPointsPercentOver, Mode=TwoWay}" />
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBlock Text="Party Member CP &lt;" FontSize="16" FontWeight="Normal" VerticalAlignment="Center" Margin="20,0,0,0"/>
+                <TextBox Margin="8,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.PartyHealBuffHandler.SelectedRule.PartyMemberCombatPointsPercentBelow, Mode=TwoWay}" />
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel Grid.Row="3" Orientation="Horizontal">
+                <TextBlock Text="Average party HP >" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBox Margin="7,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.PartyHealBuffHandler.SelectedRule.AveragePartyMemberHealthPercentOver, Mode=TwoWay}" />
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBlock Text="Average party HP &lt;" FontSize="16" FontWeight="Normal" VerticalAlignment="Center" Margin="10,0,0,0"/>
+                <TextBox Margin="8,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.PartyHealBuffHandler.SelectedRule.AveragePartyMemberHealthPercentBelow, Mode=TwoWay}" />
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Text="Dead members >" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBox Margin="7,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.PartyHealBuffHandler.SelectedRule.DeadPartyMembersOver, Mode=TwoWay}" />
+                <TextBlock Text="Dead members &lt;" FontSize="16" FontWeight="Normal" VerticalAlignment="Center" Margin="40,0,0,0"/>
+                <TextBox Margin="8,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.PartyHealBuffHandler.SelectedRule.DeadPartyMembersBelow, Mode=TwoWay}" />
+            </StackPanel>
+        </Grid>
+    </Border>
+</controls:MetroWindow>
+

@@ -1,0 +1,36 @@
+2017-02-08 16:29:57,510 [10] DEBUG Injector - new instance 10016
+2017-02-08 16:29:57,522 [10] DEBUG Injector - new instance 8832
+2017-02-08 16:29:57,525 [10] DEBUG Injector - new instance 7756
+2017-02-08 16:29:57,727 [10] DEBUG Injector - new instance 9048
+2017-02-08 16:29:57,729 [10] DEBUG Injector - new instance 6860
+2017-02-08 16:29:57,731 [10] DEBUG Injector - new instance 8132
+2017-02-08 16:29:58,485 [1] DEBUG MainWindow.xaml - 1.0.0.179
+2017-02-08 16:29:58,487 [1] DEBUG MainWindow.xaml - Windows 7
+2017-02-08 16:29:58,487 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-08 16:29:58,492 [20] INFO Injector - Waiting for a game client to be launched...
+2017-02-08 16:30:02,365 [10] DEBUG Injector - new instance 6720
+2017-02-08 16:30:02,496 [20] DEBUG Injector - Detected game client.
+2017-02-08 16:30:02,517 [17] INFO Injector - Injecting at PID: 6720
+2017-02-08 16:30:04,003 [11] DEBUG App.xaml - Version successfully queued: 1.0.0.178
+2017-02-08 16:30:04,003 [11] DEBUG App.xaml - A new version detected.
+2017-02-08 16:30:08,188 [10] DEBUG Injector - new instance 5624
+2017-02-08 16:30:08,607 [20] DEBUG Injector - Detected game client.
+2017-02-08 16:30:08,609 [17] INFO Injector - Injecting at PID: 5624
+2017-02-08 16:30:13,803 [10] DEBUG Injector - new instance 9688
+2017-02-08 16:30:14,715 [20] DEBUG Injector - Detected game client.
+2017-02-08 16:30:14,719 [17] INFO Injector - Injecting at PID: 9688
+2017-02-08 16:30:21,822 [20] DEBUG Injector - Detected game client.
+2017-02-08 16:30:21,825 [13] INFO Injector - Injecting at PID: 4452
+2017-02-08 16:30:22,022 [10] DEBUG Injector - new instance 6944
+2017-02-08 16:30:22,923 [20] DEBUG Injector - Detected game client.
+2017-02-08 16:30:22,925 [12] INFO Injector - Injecting at PID: 6944
+2017-02-08 16:30:29,438 [10] DEBUG Injector - new instance 9836
+2017-02-08 16:30:30,025 [20] DEBUG Injector - Detected game client.
+2017-02-08 16:30:30,028 [18] INFO Injector - Injecting at PID: 9836
+2017-02-08 16:30:38,474 [10] DEBUG Injector - new instance 7108
+2017-02-08 16:30:39,880 [10] DEBUG Injector - new instance 8836
+2017-02-08 16:30:40,129 [20] DEBUG Injector - Detected game client.
+2017-02-08 16:30:40,133 [23] INFO Injector - Injecting at PID: 8836
+2017-02-08 16:30:41,689 [10] DEBUG Injector - new instance 7672
+2017-02-08 16:30:41,693 [10] DEBUG Injector - new instance 4216
+2017-02-08 16:30:43,500 [10] DEBUG Injector - new instance 9412

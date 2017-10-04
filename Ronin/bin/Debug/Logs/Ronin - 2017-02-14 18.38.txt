@@ -1,0 +1,18 @@
+2017-02-14 18:38:23,920 [10] DEBUG MainWindow.xaml - 1.0.0.179
+2017-02-14 18:38:23,929 [10] DEBUG MainWindow.xaml - Windows 7
+2017-02-14 18:38:23,930 [10] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-14 18:38:23,932 [21] INFO Injectora - Waiting for a game client to be launched...
+2017-02-14 18:38:26,937 [21] DEBUG Injectora - Detected game client.
+2017-02-14 18:38:29,379 [19] DEBUG App.xaml - Version successfully queued: 1.0.0.179
+2017-02-14 18:38:29,379 [19] INFO App.xaml - Bot is up to date.
+2017-02-14 18:39:30,096 [21] DEBUG Injectora - Detected game client.
+2017-02-14 18:39:30,195 [24] DEBUG Injectora - System.ArgumentException: Process with an Id of 8576 is not running.
+   at System.Diagnostics.Process.GetProcessById(Int32 processId, String machineName)
+   at System.Diagnostics.Process.GetProcessById(Int32 processId)
+   at Ronin.Utilities.Injectora.Inject() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 200
+   at Ronin.Utilities.Injectora.<>c__DisplayClass11_0.<RerouteL2s>b__1() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 88
+2017-02-14 18:39:44,211 [16] DEBUG Injectora - System.ArgumentException: Stream was not readable.
+   at System.IO.StreamReader..ctor(Stream stream, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamReader..ctor(Stream stream)
+   at Ronin.Utilities.Injectora.Inject() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 278
+   at Ronin.Utilities.Injectora.<>c__DisplayClass11_0.<RerouteL2s>b__1() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 88

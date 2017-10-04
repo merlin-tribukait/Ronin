@@ -1,0 +1,18 @@
+2017-02-20 16:52:06,423 [9] DEBUG MainWindow.xaml - 1.0.0.180
+2017-02-20 16:52:06,430 [9] DEBUG MainWindow.xaml - Windows 7
+2017-02-20 16:52:06,430 [9] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-20 16:52:06,433 [3] INFO Injectora - Waiting for a game client to be launched...
+2017-02-20 16:52:06,434 [3] DEBUG Injectora - Detected game client.
+2017-02-20 16:52:11,942 [18] DEBUG App.xaml - Version successfully queued: 1.0.0.180
+2017-02-20 16:52:11,942 [18] INFO App.xaml - Bot is up to date.
+2017-02-20 16:52:16,596 [20] DEBUG Injectora - System.ArgumentException: Process with an Id of 10860 is not running.
+   at System.Diagnostics.Process.GetProcessById(Int32 processId, String machineName)
+   at System.Diagnostics.Process.GetProcessById(Int32 processId)
+   at Ronin.Utilities.Injectora.Inject() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 201
+   at Ronin.Utilities.Injectora.<>c__DisplayClass11_0.<RerouteL2s>b__1() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 89
+2017-02-20 17:15:26,080 [3] DEBUG Injectora - Detected game client.
+2017-02-20 17:15:38,513 [10] DEBUG Injectora - System.ArgumentException: Process with an Id of 8352 is not running.
+   at System.Diagnostics.Process.GetProcessById(Int32 processId, String machineName)
+   at System.Diagnostics.Process.GetProcessById(Int32 processId)
+   at Ronin.Utilities.Injectora.Inject() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 201
+   at Ronin.Utilities.Injectora.<>c__DisplayClass11_0.<RerouteL2s>b__1() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 89

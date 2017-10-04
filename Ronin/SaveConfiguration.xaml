@@ -1,0 +1,27 @@
+﻿<controls:MetroWindow x:Class="Ronin.SaveConfiguration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ronin"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        controls:ButtonHelper.PreserveTextCase="True"
+        Title="Save" Height="150" Width="205">
+    <Grid>
+        <Grid HorizontalAlignment="Center" Background="White" Width="200">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Border BorderBrush="Black" Grid.RowSpan="3" BorderThickness="1"></Border>
+            <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="14" FontWeight="Bold">Save As File Name</Label>
+            <TextBox x:Name="ConfigFileNameTb" Grid.Row="1" TextAlignment="Center" Text="" VerticalAlignment="Center" Width="140" Margin="1,1,1,0"></TextBox>
+            <Button IsDefault="True" Grid.Row="2" Height="25" Padding="0" Width="100" VerticalAlignment="Center" Click="SaveConfigurationButton" FontSize="14">Save</Button>
+        </Grid>
+    </Grid>
+</controls:MetroWindow>
+

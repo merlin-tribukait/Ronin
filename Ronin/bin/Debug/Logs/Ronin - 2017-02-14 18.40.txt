@@ -1,0 +1,17 @@
+2017-02-14 18:40:17,618 [10] DEBUG MainWindow.xaml - 1.0.0.179
+2017-02-14 18:40:17,629 [10] DEBUG MainWindow.xaml - Windows 7
+2017-02-14 18:40:17,629 [10] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-14 18:40:17,651 [21] INFO Injectora - Waiting for a game client to be launched...
+2017-02-14 18:40:21,656 [21] DEBUG Injectora - Detected game client.
+2017-02-14 18:40:23,026 [19] DEBUG App.xaml - Version successfully queued: 1.0.0.179
+2017-02-14 18:40:23,026 [19] INFO App.xaml - Bot is up to date.
+2017-02-14 18:41:19,826 [21] DEBUG Injectora - Detected game client.
+2017-02-14 18:41:42,854 [28] DEBUG App.xaml - Unhandled exception: 
+2017-02-14 18:41:42,854 [28] DEBUG App.xaml - System.NotSupportedException: Stream does not support writing.
+   at System.IO.Pipes.PipeStream.WaitForPipeDrain()
+   at Ronin.Utilities.Injectora.receiveIncomingPacketsFromDLL() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 296
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()

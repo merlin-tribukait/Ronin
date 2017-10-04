@@ -1,0 +1,11 @@
+2017-02-22 16:27:38,255 [10] DEBUG MainWindow.xaml - 1.0.0.180
+2017-02-22 16:27:38,263 [10] DEBUG MainWindow.xaml - Windows 7
+2017-02-22 16:27:38,263 [10] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-22 16:27:38,266 [21] INFO Injectora - Waiting for a game client to be launched...
+2017-02-22 16:27:38,268 [21] DEBUG Injectora - Detected game client.
+2017-02-22 16:27:43,370 [22] DEBUG Injectora - System.ArgumentException: Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.IO.Pipes.PipeStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at Ronin.Utilities.Injectora.Inject() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 292
+   at Ronin.Utilities.Injectora.<>c__DisplayClass11_0.<RerouteL2s>b__1() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injectora.cs:line 89
+2017-02-22 16:27:43,762 [19] DEBUG App.xaml - Version successfully queued: 1.0.0.180
+2017-02-22 16:27:43,762 [19] INFO App.xaml - Bot is up to date.

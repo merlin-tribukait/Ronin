@@ -1,0 +1,42 @@
+2016-11-23 18:33:22,805 [12] INFO Injector - Waiting for a game client to be launched...
+2016-11-23 18:33:28,836 [12] DEBUG Injector - Detected game client.
+2016-11-23 18:33:33,877 [12] DEBUG Injector - System.BadImageFormatException: Could not load file or assembly 'GreyMagic, Version=1.0.108.0, Culture=neutral, PublicKeyToken=260525fa2b0e778a' or one of its dependencies. An attempt was made to load a program with an incorrect format.
+File name: 'GreyMagic, Version=1.0.108.0, Culture=neutral, PublicKeyToken=260525fa2b0e778a'
+   at Ronin.Utilities.Injector.RerouteL2()
+   at Ronin.Utilities.Injector.RerouteL2s() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injector.cs:line 65
+
+=== Pre-bind state information ===
+LOG: DisplayName = GreyMagic, Version=1.0.108.0, Culture=neutral, PublicKeyToken=260525fa2b0e778a
+ (Fully-specified)
+LOG: Appbase = file:///E:/Visual Studio Projects/Ronin/Ronin/bin/x64/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : Ronin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\Visual Studio Projects\Ronin\Ronin\bin\x64\Debug\Ronin.vshost.exe.config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+LOG: Post-policy reference: GreyMagic, Version=1.0.108.0, Culture=neutral, PublicKeyToken=260525fa2b0e778a
+LOG: Attempting download of new URL file:///E:/Visual Studio Projects/Ronin/Ronin/bin/x64/Debug/GreyMagic.DLL.
+ERR: Failed to complete setup of assembly (hr = 0x8007000b). Probing terminated.
+
+2016-11-23 18:33:33,889 [12] DEBUG Injector - System.BadImageFormatException: Could not load file or assembly 'GreyMagic, Version=1.0.108.0, Culture=neutral, PublicKeyToken=260525fa2b0e778a' or one of its dependencies. An attempt was made to load a program with an incorrect format.
+File name: 'GreyMagic, Version=1.0.108.0, Culture=neutral, PublicKeyToken=260525fa2b0e778a'
+   at Ronin.Utilities.Injector.RerouteL2()
+   at Ronin.Utilities.Injector.RerouteL2s() in E:\Visual Studio Projects\Ronin\Ronin\Utilities\Injector.cs:line 70
+
+=== Pre-bind state information ===
+LOG: DisplayName = GreyMagic, Version=1.0.108.0, Culture=neutral, PublicKeyToken=260525fa2b0e778a
+ (Fully-specified)
+LOG: Appbase = file:///E:/Visual Studio Projects/Ronin/Ronin/bin/x64/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : Ronin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\Visual Studio Projects\Ronin\Ronin\bin\x64\Debug\Ronin.vshost.exe.config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+LOG: Post-policy reference: GreyMagic, Version=1.0.108.0, Culture=neutral, PublicKeyToken=260525fa2b0e778a
+LOG: Attempting download of new URL file:///E:/Visual Studio Projects/Ronin/Ronin/bin/x64/Debug/GreyMagic.DLL.
+ERR: Failed to complete setup of assembly (hr = 0x8007000b). Probing terminated.
+

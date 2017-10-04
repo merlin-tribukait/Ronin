@@ -1,0 +1,64 @@
+﻿<controls:MetroWindow x:Class="Ronin.AdditionalSelfCondtions"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ronin"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+                      WindowStartupLocation="CenterScreen"
+                      ResizeMode="NoResize"
+        controls:ButtonHelper.PreserveTextCase="True"
+        Title="Additional Condtions" Height="350" Width="330">
+    <Border BorderThickness="1" BorderBrush="Black">
+    <Grid Margin="0,0,0,10" HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <TextBlock Text="Pet HP >" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBox Margin="10,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.SelfHealBuffHandler.SelectedRule.PetHealthPercentOver, Mode=TwoWay}"/>
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBlock Text="Pet HP  &lt;" FontSize="16" FontWeight="Normal" VerticalAlignment="Center" Margin="29,0,0,0"/>
+                <TextBox Margin="7,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.SelfHealBuffHandler.SelectedRule.PetHealthPercentBelow, Mode=TwoWay}"/>
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+                <TextBlock Text="Pet MP >" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBox Margin="7,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.SelfHealBuffHandler.SelectedRule.PetManaPercentOver, Mode=TwoWay}" />
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBlock Text="Pet MP &lt;" FontSize="16" FontWeight="Normal" VerticalAlignment="Center" Margin="30,0,0,0"/>
+                <TextBox Margin="8,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.SelfHealBuffHandler.SelectedRule.PetManaPercentBelow, Mode=TwoWay}" />
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+        </StackPanel>
+            <StackPanel Grid.Row="2" Orientation="Horizontal">
+                <TextBlock Text="Pet Food >" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBox Margin="7,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.SelfHealBuffHandler.SelectedRule.PetFoodPercentOver, Mode=TwoWay}" />
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+                <TextBlock Text="Pet Food &lt;" FontSize="16" FontWeight="Normal" VerticalAlignment="Center" Margin="20,0,0,0"/>
+                <TextBox Margin="8,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.SelfHealBuffHandler.SelectedRule.PetFoodPercentBelow, Mode=TwoWay}" />
+                <TextBlock Text=" %" FontSize="16" FontWeight="Normal" VerticalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel Grid.Row="3"  VerticalAlignment="Center"  Orientation="Horizontal" Margin="0,15,0,15" HorizontalAlignment ="Center">
+                <TextBlock VerticalAlignment="Center" FontSize="16" FontWeight="Normal" Text="Pet/Summon Count &lt;"/>
+                <TextBox Margin="8,5,0,0" Width="25" VerticalAlignment="Center" FontWeight="Normal"  TextChanged="TwoDigitValidation_TbTextChange" KeyDown="CommitChanges_OnKeyDown"
+                                         Text="{Binding SelectedBot.Engine.SelfHealBuffHandler.SelectedRule.PetSummonCountBelow, Mode=TwoWay}" />
+        </StackPanel>
+            <StackPanel Grid.Row="4"  VerticalAlignment="Center"  Orientation="Horizontal" Margin="0,15,0,15" HorizontalAlignment ="Center">
+                <TextBlock VerticalAlignment="Center" FontSize="16" FontWeight="Normal" Text="Has Death Penalty"/>
+                <CheckBox HorizontalContentAlignment="Right" IsChecked="{Binding SelectedBot.Engine.SelfHealBuffHandler.SelectedRule.HasDeathPenalty, Mode=TwoWay}" IsEnabled="True" Margin="13,0,0,0"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</controls:MetroWindow>
+

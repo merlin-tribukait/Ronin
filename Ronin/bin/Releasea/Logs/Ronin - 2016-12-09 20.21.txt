@@ -1,0 +1,21 @@
+2016-12-09 20:21:28,368 [1] DEBUG MainWindow.xaml - Windows 7 or Above
+2016-12-09 20:21:28,373 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2016-12-09 20:21:28,376 [7] INFO Injector - Waiting for a game client to be launched...
+2016-12-09 20:21:34,855 [3] DEBUG App.xaml - Closing for update...
+2016-12-09 20:21:41,581 [1] DEBUG MainWindow.xaml - Windows 7 or Above
+2016-12-09 20:21:41,586 [1] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2016-12-09 20:21:41,589 [7] INFO Injector - Waiting for a game client to be launched...
+2016-12-09 20:21:42,725 [3] INFO App.xaml - Bot is up to date.
+2016-12-09 20:21:45,604 [7] DEBUG Injector - Detected game client.
+2016-12-09 20:21:45,818 [8] INFO Injector - Injecting at PID: 9284
+2016-12-09 20:21:56,957 [8] DEBUG Injector - Received: 2, 0, 8, 62, 91, 134, 167, 62
+2016-12-09 20:21:56,960 [8] DEBUG Injector - Started proxying to 91.134.167.62:2110 .
+2016-12-09 20:21:58,399 [4] DEBUG Client - Version: 273
+2016-12-09 20:21:58,580 [4] DEBUG Client - -7628333341056993156
+2016-12-09 20:21:58,583 [4] DEBUG Client - 7C , 78 , 07 , 32 , 3E , B7 , 22 , 96 
+2016-12-09 20:22:33,151 [12] DEBUG SystemMessage - Skill Land
+2016-12-09 20:22:36,637 [10] DEBUG SystemMessage - Skill Land
+2016-12-09 20:24:57,818 [19] DEBUG SystemMessage - Skill Fail
+2016-12-09 20:24:58,754 [19] DEBUG SystemMessage - Skill Fail
+2016-12-09 20:24:59,768 [19] DEBUG SystemMessage - Skill Land
+2016-12-09 20:25:38,814 [20] DEBUG SystemMessage - Skill Land

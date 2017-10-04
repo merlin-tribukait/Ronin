@@ -1,0 +1,9 @@
+2017-02-21 14:32:12,720 [9] DEBUG MainWindow.xaml - 1.0.0.180
+2017-02-21 14:32:12,727 [9] DEBUG MainWindow.xaml - Windows 7
+2017-02-21 14:32:12,727 [9] DEBUG MainWindow.xaml - 64-Bit, 8 Processor
+2017-02-21 14:32:12,733 [20] INFO Injector - Waiting for a game client to be launched...
+2017-02-21 14:32:12,734 [20] DEBUG Injector - Detected game client.
+2017-02-21 14:32:12,760 [21] INFO Injector - Injecting at PID: 5692
+2017-02-21 14:32:18,326 [18] DEBUG App.xaml - Version successfully queued: 1.0.0.180
+2017-02-21 14:32:18,326 [18] INFO App.xaml - Bot is up to date.
+2017-02-21 14:32:18,713 [21] DEBUG Injector - Unsupported protection module.
